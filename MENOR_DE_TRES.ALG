@@ -27,5 +27,7 @@ Inicio
          menor <- numero3
       fimse
    fimse
+   
+escreval("o menor numero: ", menor:4:2)
 
 Fimalgoritmo
